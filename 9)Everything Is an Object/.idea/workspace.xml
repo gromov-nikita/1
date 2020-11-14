@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1741ba59-9ba4-4e91-99c6-3ee0846d7db0" name="Default Changelist" comment="" />
+    <list default="true" id="8c5ef8d9-f1e7-4d58-ade9-2d1a1cc9379a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/out/production/1)Everything Is an Object/A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/out/production/1)Everything Is an Object/A1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/src/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/src/A1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +17,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1kHhrCGazvRTnaqZ979RlZYqm40" />
+  <component name="ProjectId" id="1kHimas1afPzqCtzy4SOLM75GEe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,25 +26,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1741ba59-9ba4-4e91-99c6-3ee0846d7db0" name="Default Changelist" comment="" />
-      <created>1605363620802</created>
+      <changelist id="8c5ef8d9-f1e7-4d58-ade9-2d1a1cc9379a" name="Default Changelist" comment="" />
+      <created>1605364077448</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605363620802</updated>
+      <updated>1605364077448</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1605363636566">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1605363636566" />
   </component>
 </project>
