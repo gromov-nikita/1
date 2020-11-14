@@ -1,3 +1,7 @@
+/*
+Exercise 9: (2) Write a program that demonstrates that autoboxing works for all the
+primitive types and their wrappers.
+ */
 public class A9 {
     public static void main(String[] args) {
         Integer a1 = new Integer(7);

@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b0e9d76-cf1d-48ea-a90b-a1f704c98d80" name="Default Changelist" comment="" />
+    <list default="true" id="0944468f-97ff-4633-99aa-25f06beadec8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/out/production/1)Everything Is an Object/A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/out/production/1)Everything Is an Object/A1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/src/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/src/A1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2)Everything Is an Object/A2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2)Everything Is an Object/A2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Everything Is an Object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Everything Is an Object/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Everything Is an Object/out/production/9)Everything Is an Object/A9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Everything Is an Object/out/production/9)Everything Is an Object/A9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Everything Is an Object/src/A9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Everything Is an Object/src/A9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1k6yJywasJPCFegeGAaO7TiQ1Nl" />
+  <component name="ProjectId" id="1kHo3Upe6E8me4CsjjeYnoaPifm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="A2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -42,50 +52,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b0e9d76-cf1d-48ea-a90b-a1f704c98d80" name="Default Changelist" comment="" />
-      <created>1605035267266</created>
+      <changelist id="0944468f-97ff-4633-99aa-25f06beadec8" name="Default Changelist" comment="" />
+      <created>1605366678943</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605035267266</updated>
+      <updated>1605366678943</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1605035482634">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1605366804312">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605035482634" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1605035482634">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605366804312" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1605366804312">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605035482634" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1605035482634">
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605366804312" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1605366804312">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605035482634" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1605035482634">
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605366804312" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1605366804312">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605035482634" />
-    <state width="1322" height="221" key="GridCell.Tab.1.bottom" timestamp="1605035482634">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="221" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605035482634" />
-    <state width="1322" height="221" key="GridCell.Tab.1.center" timestamp="1605035482619">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="221" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1605035482619" />
-    <state width="1322" height="221" key="GridCell.Tab.1.left" timestamp="1605035482619">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="221" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1605035482619" />
-    <state width="1322" height="221" key="GridCell.Tab.1.right" timestamp="1605035482634">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="221" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1605035482634" />
-    <state x="65" y="0" key="new project wizard" timestamp="1605035480716">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1605035480716" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605366804312" />
   </component>
 </project>

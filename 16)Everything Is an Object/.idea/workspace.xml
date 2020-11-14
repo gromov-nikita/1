@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="087ffa94-fea7-4468-94c2-e9616247b7e9" name="Default Changelist" comment="" />
+    <list default="true" id="95eab018-58cc-4bbd-899d-aeb31ccfab61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2)Everything Is an Object/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/out/production/1)Everything Is an Object/A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/out/production/1)Everything Is an Object/A1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/src/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/src/A1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2)Everything Is an Object/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2)Everything Is an Object/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2)Everything Is an Object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2)Everything Is an Object/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2)Everything Is an Object/out/production/2)Everything Is an Object/A2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2)Everything Is an Object/out/production/2)Everything Is an Object/A2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2)Everything Is an Object/src/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2)Everything Is an Object/src/A2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8)Everything Is an Object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8)Everything Is an Object/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8)Everything Is an Object/out/production/8)Everything Is an Object/A8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../8)Everything Is an Object/out/production/8)Everything Is an Object/A8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8)Everything Is an Object/src/A8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../8)Everything Is an Object/src/A8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Everything Is an Object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Everything Is an Object/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Everything Is an Object/out/production/9)Everything Is an Object/A9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Everything Is an Object/out/production/9)Everything Is an Object/A9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Everything Is an Object/src/A9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Everything Is an Object/src/A9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1k7352GFnvJuMKKvVK06ivqVo04" />
+  <component name="ProjectId" id="1kHoc84TZQzMI35PfLV0slVf8RR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,78 +40,37 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Overloading" />
-      <module name="16)Everything Is an Object" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Overloading" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="087ffa94-fea7-4468-94c2-e9616247b7e9" name="Default Changelist" comment="" />
-      <created>1605037615152</created>
+      <changelist id="95eab018-58cc-4bbd-899d-aeb31ccfab61" name="Default Changelist" comment="" />
+      <created>1605366953181</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605037615152</updated>
+      <updated>1605366953181</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="441" y="115" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605104899977">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605367108972">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="441" y="115" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1605104899977" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1605042087633">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1605367108972" />
+    <state x="412" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605367087360">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1605042087633" />
-    <state width="1306" height="177" key="GridCell.Tab.0.bottom" timestamp="1605105065187">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1306" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605105065187" />
-    <state width="1306" height="177" key="GridCell.Tab.0.center" timestamp="1605105065186">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1306" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605105065186" />
-    <state width="1306" height="177" key="GridCell.Tab.0.left" timestamp="1605105065186">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1306" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605105065186" />
-    <state width="1306" height="177" key="GridCell.Tab.0.right" timestamp="1605105065187">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1306" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605105065187" />
-    <state width="1322" height="221" key="GridCell.Tab.1.bottom" timestamp="1605039233535">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="221" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605039233535" />
-    <state width="1322" height="221" key="GridCell.Tab.1.center" timestamp="1605039233535">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="221" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1605039233535" />
-    <state width="1322" height="221" key="GridCell.Tab.1.left" timestamp="1605039233535">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="221" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1605039233535" />
-    <state width="1322" height="221" key="GridCell.Tab.1.right" timestamp="1605039233535">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="221" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1605039233535" />
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1605103950438">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1605103950438" />
+    <state x="412" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1605367087360" />
   </component>
 </project>
