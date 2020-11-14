@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="ce4410bc-6c37-4aa1-8982-66c3edd60237" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="53e8f837-ce44-43d4-8301-442a78f5793d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1)Everything Is an Object/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
->>>>>>> Stashed changes
+    <list default="true" id="1741ba59-9ba4-4e91-99c6-3ee0846d7db0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-<<<<<<< Updated upstream
-  <component name="ProjectId" id="1k70NwvtwMhMMw9MKtXFqac7FlY" />
-=======
-  <component name="ProjectId" id="1kHMuOQRpD0xRRTEJZZhUGFy09g" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
->>>>>>> Stashed changes
+  <component name="ProjectId" id="1kHhrCGazvRTnaqZ979RlZYqm40" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,82 +18,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunManager">
-    <configuration name="A9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A9" />
-      <module name="9)Everything Is an Object" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.A9" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< Updated upstream
-      <changelist id="ce4410bc-6c37-4aa1-8982-66c3edd60237" name="Default Changelist" comment="" />
-      <created>1605036285455</created>
+      <changelist id="1741ba59-9ba4-4e91-99c6-3ee0846d7db0" name="Default Changelist" comment="" />
+      <created>1605363620802</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605036285455</updated>
-=======
-      <changelist id="53e8f837-ce44-43d4-8301-442a78f5793d" name="Default Changelist" comment="" />
-      <created>1605353285544</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1605353285544</updated>
->>>>>>> Stashed changes
+      <updated>1605363620802</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-<<<<<<< Updated upstream
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1605105098103">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605105098103" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1605105098103">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605105098103" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1605105098103">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605105098103" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1605105098103">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605105098103" />
-    <state x="65" y="0" key="new project wizard" timestamp="1605036695053">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1605036695053" />
-=======
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1605355019910">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605355019910" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1605355019910">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605355019910" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1605355019910">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605355019910" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1605355019910">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605355019910" />
->>>>>>> Stashed changes
   </component>
 </project>
