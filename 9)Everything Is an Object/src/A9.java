@@ -6,17 +6,19 @@ public class A9 {
     public static void main(String[] args) {
         Integer a1 = new Integer(7);
         int a = a1;
-        long c = 5;
         Integer a2 = 9;
-        Integer a3 = (int)c;
-        Long b = (long)a2;
-        Long b2 = (long)a;
+        Long l1 = new Long(1000);
+        long l = l1;
+        Long l2 = 4000L;
+        Integer a3 = (int)l;
+        Long l3 = (long)a;
         System.out.println(a);
         System.out.println(a1);
         System.out.println(a2);
         System.out.println(a3);
-        System.out.println(c);
-        System.out.println(b);
-        System.out.println(b2);
+        System.out.println(l);
+        System.out.println(l1);
+        System.out.println(l2);
+        System.out.println(l3);
     }
 }
